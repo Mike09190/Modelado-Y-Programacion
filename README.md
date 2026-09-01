@@ -1,2 +1,2 @@
-# Modelado-Y-Programaci-n
+# Modelado-Y-Programacion
 Prácticas del Equipo SalvaLovers 
